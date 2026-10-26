@@ -17,6 +17,7 @@ W tej wersji usługa wysyłania zgłoszeń nie jest skonfigurowana: szkic pozost
 
 4. Reklamy, analityka i dane telefonu
 W obecnej wersji nie korzystamy z reklam, zakupów w aplikacji ani usług analitycznych zbierających dane graczy. Gra nie wymaga kontaktów, mikrofonu, aparatu ani lokalizacji geograficznej. Nie sprzedajemy danych graczy i nie udostępniamy ich do reklam. Google Play i system Android przetwarzają dane w ramach swoich usług na własnych zasadach; ta polityka opisuje działanie gry.
+Wydanie Google Play korzysta z Play Asset Delivery do dostarczenia plików gry podczas instalacji i aktualizacji. Według dokumentacji Google ten mechanizm przetwarza metadane urządzenia i wersję aplikacji, aby dobrać i zachować właściwe pakiety zasobów. Google podaje, że przesył jest szyfrowany, dane nie są przekazywane osobom trzecim i są usuwane po ustalonym przez Google okresie przechowywania. Ten mechanizm służy dostarczeniu gry, a nie reklamom ani śledzeniu zachowania gracza. Więcej informacji: https://developer.android.com/guide/playcore/asset-delivery oraz https://policies.google.com/privacy.
 
 5. Przechowywanie i usuwanie
 Zapisy i ustawienia pozostają w pamięci aplikacji do ich usunięcia. Lokalne dane aplikacji można usunąć w ustawieniach Androida; usuwa to także postęp gry. Losy kopii systemowych zależą od ustawień i usług kopii zapasowych. Niewysłany szkic możesz usunąć w formularzu gry. Wydawca nie ma zdalnego dostępu do lokalnych zapisów ani szkiców.
